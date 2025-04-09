@@ -31,7 +31,7 @@ Ship it now! with https://shipit.today
 
 ### GitHub contributions in the last year
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seantomburke/seantomburke/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seantomburke/seantomburke/dist/github-snake.svg" />
-  <img alt="GitHub contributions" src="https://raw.githubusercontent.com/seantomburke/seantomburke/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seantomburke/seantomburke/refs/heads/gh-pages/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seantomburke/seantomburke/refs/heads/gh-pages/github-snake.svg" />
+  <img alt="GitHub contributions" src="https://raw.githubusercontent.com/seantomburke/seantomburke/refs/heads/gh-pages/github-snake.svg" />
 </picture>
