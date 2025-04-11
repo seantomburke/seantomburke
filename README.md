@@ -33,7 +33,7 @@ Ship it now! with https://shipit.today
 </picture>
 
 ### Spotify Recently Played
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=121453225&width=500)
+[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=121453225&width=500)](https://open.spotify.com/user/121453225)
 
 
 ### Visitor Count
