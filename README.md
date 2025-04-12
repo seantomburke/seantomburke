@@ -2,15 +2,15 @@
   <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00BEAC,100:00A3E7&text=Sean%20Thomas%20Burke&section=header&reversal=false&textBg=false&fontColor=DDDDDD&desc=Head%20of%20Engineering%20at%20GoLinks&descAlignY=66&fontAlignY=45&animation=fadeIn&descSize=24"
+        srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Sean%20Thomas%20Burke&section=header&reversal=false&textBg=false&fontColor=DDDDDD&desc=Head%20of%20Engineering%20at%20GoLinks&descAlignY=66&fontAlignY=45&animation=fadeIn&descSize=24"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00BEAC,100:00A3E7&text=Sean%20Thomas%20Burke&section=header&reversal=false&textBg=false&fontColor=22222&desc=Head%20of%20Engineering%20at%20GoLinks&descAlignY=66&fontAlignY=45&animation=fadeIn&descSize=24"
+        srcset="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Sean%20Thomas%20Burke&section=header&reversal=false&textBg=false&fontColor=22222&desc=Head%20of%20Engineering%20at%20GoLinks&descAlignY=66&fontAlignY=45&animation=fadeIn&descSize=24"
       />
       <img
         alt="Sean Burke - Head of Engineering at GoLinks"
-        src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00BEAC,100:00A3E7&text=Sean%20Thomas%20Burke&section=header&reversal=false&textBg=false&fontColor=22222&desc=Head%20of%20Engineering%20at%20GoLinks&descAlignY=66&fontAlignY=45&animation=fadeIn&descSize=24"
+        src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Sean%20Thomas%20Burke&section=header&reversal=false&textBg=false&fontColor=22222&desc=Head%20of%20Engineering%20at%20GoLinks&descAlignY=66&fontAlignY=45&animation=fadeIn&descSize=24"
         width="100%"
       />
   </picture>
