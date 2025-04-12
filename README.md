@@ -2,19 +2,32 @@
   <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://capsule-render.vercel.app/api?type=venom&color=0:00beac,100:00a3e7&height=190&section=header&text=Sean%20Thomas%20Burke&fontSize=50&fontColor=DDD&animation=fadeIn&fontAlignY=35&desc=Head%20of%20Engineering%20at%20GoLinks&descAlignY=60&descAlign=50&section=header"
+        srcset="https://capsule-render.vercel.app/api?type=venom&color=0:00BEAC,100:00A3E7&height=220&section=header&text=Sean%20Thomas%20Burke&fontSize=50&fontColor=DDD&animation=fadeIn&fontAlignY=35&desc=Head%20of%20Engineering%20at%20GoLinks&descAlignY=60&descAlign=50&section=header"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://capsule-render.vercel.app/api?type=venom&color=0:00beac,100:00a3e7&height=190&section=header&text=Sean%20Thomas%20Burke&fontSize=50&fontColor=222&animation=fadeIn&fontAlignY=35&desc=Head%20of%20Engineering%20at%20GoLinks&descAlignY=60&descAlign=50&section=header"
+        srcset="https://capsule-render.vercel.app/api?type=venom&color=0:00BEAC,100:00A3E7&height=220&section=header&text=Sean%20Thomas%20Burke&fontSize=50&fontColor=222&animation=fadeIn&fontAlignY=35&desc=Head%20of%20Engineering%20at%20GoLinks&descAlignY=60&descAlign=50&section=header"
       />
       <img
         alt="Sean Burke - Head of Engineering at GoLinks"
-        src="https://capsule-render.vercel.app/api?type=venom&color=0:00beac,100:00a3e7&height=190&section=header&text=Sean%20Thomas%20Burke&fontSize=50&fontColor=222&animation=fadeIn&fontAlignY=35&desc=Head%20of%20Engineering%20at%20GoLinks&descAlignY=60&descAlign=50&section=header"
+        src="https://capsule-render.vercel.app/api?type=venom&color=0:00BEAC,100:00A3E7&height=220&section=header&text=Sean%20Thomas%20Burke&fontSize=50&fontColor=222&animation=fadeIn&fontAlignY=35&desc=Head%20of%20Engineering%20at%20GoLinks&descAlignY=60&descAlign=50&section=header"
         width="100%"
       />
   </picture>
 </a>
+
+<svg width="600" height="80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00BEAC"/>
+      <stop offset="100%" stop-color="#00A3E7"/>
+    </linearGradient>
+  </defs>
+  <text x="10" y="50" font-family="arial" font-size="40" fill="url(#textGradient)">
+    Sean Thomas Burke
+  </text>
+</svg>
+
 
 ### [Shipit.today](https://shipit.today)
 
