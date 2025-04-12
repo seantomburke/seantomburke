@@ -1,5 +1,4 @@
-<a href="https://www.linkedin.com/in/seantomburke">
-  <picture>
+<picture>
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://capsule-render.vercel.app/api?type=venom&color=0:00beac,100:00a3e7&height=190&section=header&text=Sean%20Thomas%20Burke&fontSize=50&fontColor=DDD&animation=fadeIn&fontAlignY=35&desc=Head%20of%20Engineering%20at%20GoLinks&descAlignY=0&descAlign=0&section=header" 
@@ -12,8 +11,7 @@
       alt="Sean Burke - Head of Engineering at GoLinks"
       src="https://capsule-render.vercel.app/api?type=venom&color=0:00beac,100:00a3e7&height=190&section=header&text=Sean%20Thomas%20Burke&fontSize=50&fontColor=222&animation=fadeIn&fontAlignY=35&desc=Head%20of%20Engineering%20at%20GoLinks&descAlignY=0&descAlign=0&section=header"
     />
-  </picture>
-</a>
+</picture>
 
 ### [Shipit.today](https://shipit.today)
 
